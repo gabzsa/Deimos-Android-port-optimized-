@@ -167,6 +167,7 @@
 		}
 	],
 	"no_antialiasing": false,
+	"cameraMove": 30,
 	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
@@ -180,7 +181,7 @@
 		209
 	],
 	"camera_position": [
-		0,
+		50,
 		0
 	],
 	"sing_duration": 4,
