@@ -1,0 +1,41 @@
+{
+	"storyName": "deimos wip",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Shots Fired",
+			"deimosreanim",
+			[
+				38,
+				39,
+				60
+			]
+		],
+		[
+			"Empty Clips",
+			"deimosreanim",
+			[
+				38,
+				39,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Deimos Week",
+	"hiddenUntilUnlocked": false
+}
