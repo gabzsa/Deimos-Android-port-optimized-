@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="madness gf.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GfWithTheBoys0000" x="0" y="0" width="1167" height="655" frameX="-2" frameY="-3" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0001" x="1167" y="0" width="1197" height="655" frameX="-1" frameY="-3" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0002" x="2364" y="0" width="1197" height="653" frameX="-1" frameY="-5" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0003" x="3561" y="0" width="1208" height="653" frameX="-2" frameY="-5" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0004" x="4769" y="0" width="1208" height="656" frameX="-2" frameY="-2" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0005" x="5977" y="0" width="1160" height="656" frameX="-6" frameY="-2" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0006" x="0" y="656" width="1169" height="655" frameX="-5" frameY="-3" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0007" x="1169" y="656" width="1203" height="650" frameX="-3" frameY="-8" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0008" x="2372" y="656" width="1204" height="650" frameX="-3" frameY="-8" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0009" x="3576" y="656" width="1223" height="650" frameX="-3" frameY="-8" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0010" x="4799" y="656" width="1229" height="648" frameX="0" frameY="-10" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0011" x="6028" y="656" width="1160" height="648" frameX="0" frameY="-10" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0012" x="0" y="1311" width="1160" height="648" frameX="0" frameY="-10" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0013" x="1160" y="1311" width="1197" height="648" frameX="-4" frameY="-10" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0014" x="2357" y="1311" width="1197" height="648" frameX="-4" frameY="-10" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0015" x="3554" y="1311" width="1211" height="636" frameX="-28" frameY="-22" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0016" x="4765" y="1311" width="1204" height="636" frameX="-34" frameY="-22" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0017" x="5969" y="1311" width="1115" height="636" frameX="-34" frameY="-22" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0018" x="0" y="1959" width="1110" height="636" frameX="-39" frameY="-22" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0019" x="1110" y="1959" width="1168" height="637" frameX="-29" frameY="-21" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0020" x="2278" y="1959" width="1172" height="637" frameX="-29" frameY="-21" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0021" x="3450" y="1959" width="1219" height="638" frameX="-16" frameY="-20" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0022" x="4669" y="1959" width="1223" height="657" frameX="-2" frameY="-1" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0023" x="5892" y="1959" width="1160" height="657" frameX="-2" frameY="-1" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0024" x="0" y="2616" width="1160" height="657" frameX="-2" frameY="-1" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0025" x="1160" y="2616" width="1194" height="658" frameX="-6" frameY="0" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0026" x="2354" y="2616" width="1194" height="658" frameX="-6" frameY="0" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0027" x="3548" y="2616" width="1219" height="658" frameX="-6" frameY="0" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0028" x="4767" y="2616" width="1216" height="658" frameX="-9" frameY="0" frameWidth="1239" frameHeight="658"/>
+	<SubTexture name="GfWithTheBoys0029" x="5983" y="2616" width="1153" height="658" frameX="-9" frameY="0" frameWidth="1239" frameHeight="658"/>
+</TextureAtlas>
